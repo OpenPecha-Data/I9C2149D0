@@ -1,0 +1,172 @@
+id: 67b5f8d5d6b847b5a89bad45250d65dd
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  e749dbed616b4052a9f6b73953c41508:
+    span:
+      start: 0
+      end: 783
+    imgnum: 1
+    reference: I3PD11270001.tif
+  4a474c4ca66943238d13a5d14bc36245:
+    span:
+      start: 784
+      end: 856
+    imgnum: 3
+    reference: I3PD11270003.jpg
+  97692ed8b08c422c9978e0fa0ffb90e6:
+    span:
+      start: 857
+      end: 978
+    imgnum: 4
+    reference: I3PD11270004.jpg
+  a4e03f5a39aa4ed6adb59ba3f2a10ff5:
+    span:
+      start: 979
+      end: 1413
+    imgnum: 5
+    reference: I3PD11270005.jpg
+  f63d53164eae4480abadbe1bc965e710:
+    span:
+      start: 1414
+      end: 1694
+    imgnum: 6
+    reference: I3PD11270006.jpg
+  15b3511186c94d579beae6a6557e8e86:
+    span:
+      start: 1695
+      end: 1967
+    imgnum: 7
+    reference: I3PD11270007.jpg
+  8ccabba947494a3a82b05ded78e0e6be:
+    span:
+      start: 1968
+      end: 2336
+    imgnum: 8
+    reference: I3PD11270008.jpg
+  9ab3ad2b16b84c51be352c4e35918f71:
+    span:
+      start: 2337
+      end: 2590
+    imgnum: 9
+    reference: I3PD11270009.jpg
+  fa8d74bf27b44a259e4304e61d15da21:
+    span:
+      start: 2591
+      end: 2914
+    imgnum: 10
+    reference: I3PD11270010.jpg
+  6d70d4c367524542812484b0eba7df1e:
+    span:
+      start: 2915
+      end: 3098
+    imgnum: 11
+    reference: I3PD11270011.jpg
+  bad55bf1c32340e9a4909a3a71964ffe:
+    span:
+      start: 3099
+      end: 3432
+    imgnum: 12
+    reference: I3PD11270012.jpg
+  8cced89f143046ee80e518c3733f5955:
+    span:
+      start: 3433
+      end: 3757
+    imgnum: 13
+    reference: I3PD11270013.jpg
+  9a7b60d9d7bb457f99ca3739d2787a67:
+    span:
+      start: 3758
+      end: 4179
+    imgnum: 14
+    reference: I3PD11270014.jpg
+  67edb4a9cd26478ca945c05390e5a906:
+    span:
+      start: 4180
+      end: 4476
+    imgnum: 15
+    reference: I3PD11270015.jpg
+  23c6a44668aa41898ae4a88fe09046c3:
+    span:
+      start: 4477
+      end: 4657
+    imgnum: 16
+    reference: I3PD11270016.jpg
+  8c303a10301941aa8e8eb7eb180dafc6:
+    span:
+      start: 4658
+      end: 5058
+    imgnum: 17
+    reference: I3PD11270017.jpg
+  544aabda3cd94925bb10dda771c44ec2:
+    span:
+      start: 5059
+      end: 5457
+    imgnum: 18
+    reference: I3PD11270018.jpg
+  d3f5520c9eae4c6da36dfc5b1a51a619:
+    span:
+      start: 5458
+      end: 5738
+    imgnum: 19
+    reference: I3PD11270019.jpg
+  cca209ab1eec4cccbc60615e5d92a97e:
+    span:
+      start: 5739
+      end: 5943
+    imgnum: 20
+    reference: I3PD11270020.jpg
+  fee6e1f4ed994da1853e4f5494883b9f:
+    span:
+      start: 5944
+      end: 6069
+    imgnum: 21
+    reference: I3PD11270021.jpg
+  7b7eb8ea956d4ba7ba151653bd6eaa36:
+    span:
+      start: 6070
+      end: 6428
+    imgnum: 22
+    reference: I3PD11270022.jpg
+  aa44777082f74d76b2bf011a75b5af49:
+    span:
+      start: 6429
+      end: 6503
+    imgnum: 23
+    reference: I3PD11270023.jpg
+  9d36ec02a82a4b4face3aefecbbac532:
+    span:
+      start: 6504
+      end: 6618
+    imgnum: 24
+    reference: I3PD11270024.jpg
+  e80ba6248f514d0c80d8d2d394bfad7a:
+    span:
+      start: 6619
+      end: 6693
+    imgnum: 25
+    reference: I3PD11270025.jpg
+  cf95f2b469914bf5bd230a60530b9615:
+    span:
+      start: 6694
+      end: 6814
+    imgnum: 26
+    reference: I3PD11270026.jpg
+  da35ef125a31494bb9c277a113bef0a9:
+    span:
+      start: 6815
+      end: 6997
+    imgnum: 27
+    reference: I3PD11270027.jpg
+  5c1524d087ce48f8bf9066a964b4034f:
+    span:
+      start: 6998
+      end: 7201
+    imgnum: 28
+    reference: I3PD11270028.jpg
+  9445506542404fae86a12c00fe19575a:
+    span:
+      start: 7202
+      end: 7378
+    imgnum: 29
+    reference: I3PD11270029.jpg
